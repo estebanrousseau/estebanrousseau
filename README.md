@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**estebanrousseau/estebanrousseau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Je suis un étudiant / développeur passionné par le développement logiciel, les technologies web et la création de projets concrets. J'aime apprendre, expérimenter et concevoir des solutions simples mais efficaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Languages
+- JavaScript
+- TypeScript
+- Python
+- HTML
+- CSS
+- SQL
+
+### Frontend
+- React
+- Vue
+- Bootstrap
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express
+- API REST
+- Databases
+
+### Tools & Workflow
+- Git / GitHub
+- VS Code
+- Linux
+- Figma
+- Postman
+
+## Technologies used
+
+### Web
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Node.js
+
+### Design & Collaboration
+- Figma
+- GitHub
+- Notion
+
+## Projects
+
+### Featured projects
+- Portfolio
+- App web
+- API
+- Mini projets
+
+## Experience
+
+### Learning path
+- Développement web
+- Programmation logicielle
+- Conception d'applications
+- Gestion de projets personnels
+
+## Contact
+
+### Reach me
+- GitHub
+- LinkedIn
+- Email
+
+## Stats
+
+### GitHub overview
+- Contributions
+- Repositories
+- Activity
+
+## Thanks for visiting
+
+Merci de visiter mon profil !
+
