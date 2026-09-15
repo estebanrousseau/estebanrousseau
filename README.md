@@ -2,66 +2,55 @@
 
 ## About me
 
-Je suis un étudiant / développeur passionné par le développement logiciel, les technologies web et la création de projets concrets. J'aime apprendre, expérimenter et concevoir des solutions simples mais efficaces.
+Je suis un développeur / étudiant passionné par le développement web, la création de projets concrets et l’apprentissage continu. J’aime concevoir des interfaces claires, développer des solutions utiles et améliorer mes compétences au quotidien.
+
+---
 
 ## Skills
 
-### Languages
-- JavaScript
-- TypeScript
-- Python
-- HTML
-- CSS
-- SQL
+| Catégorie | Compétences |
+| --- | --- |
+| Langages | JavaScript, TypeScript, Python, HTML, CSS, SQL |
+| Frontend | React, Vue, Tailwind CSS, Bootstrap, Responsive Design |
+| Backend | Node.js, Express, API REST, Bases de données |
+| Outils | Git, GitHub, VS Code, Linux, Postman |
+| Design & Collaboration | Figma, Notion, GitHub Projects |
 
-### Frontend
-- React
-- Vue
-- Bootstrap
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express
-- API REST
-- Databases
-
-### Tools & Workflow
-- Git / GitHub
-- VS Code
-- Linux
-- Figma
-- Postman
+---
 
 ## Technologies used
 
-### Web
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Node.js
+| Domaine | Outils |
+| --- | --- |
+| Frontend | 🔶 HTML5, 🔷 CSS3, 🟨 JavaScript, ⚛️ React, 🟢 Vue |
+| Backend | 🟩 Node.js, 🚀 Express, 🗄️ SQL, 🔌 API REST |
+| Styling | 🎨 Tailwind CSS, 💎 Bootstrap, ✨ CSS Modules |
+| Workflow | 🐙 GitHub, 🧩 Git, 💻 VS Code, 🐧 Linux |
+| Design | 🎯 Figma, 📝 Notion |
 
-### Design & Collaboration
-- Figma
-- GitHub
-- Notion
+---
 
 ## Projects
 
 ### Featured projects
-- Portfolio
-- App web
-- API
-- Mini projets
+- Portfolio personnel
+- Application web
+- API REST
+- Projets de développement frontend
+- Mini projets d’apprentissage
+
+---
 
 ## Experience
 
 ### Learning path
 - Développement web
 - Programmation logicielle
-- Conception d'applications
+- Conception d’interfaces
 - Gestion de projets personnels
+- Apprentissage continu des nouvelles technologies
+
+---
 
 ## Contact
 
@@ -69,15 +58,23 @@ Je suis un étudiant / développeur passionné par le développement logiciel, l
 - GitHub
 - LinkedIn
 - Email
+- Portfolio
+
+---
 
 ## Stats
 
 ### GitHub overview
-- Contributions
-- Repositories
-- Activity
+- Contributions récentes
+- Répertoires publics
+- Projets actifs
+- Progression technique
+
+---
 
 ## Thanks for visiting
 
 Merci de visiter mon profil !
+
+Je suis toujours ouvert à de nouvelles opportunités, collaborations et idées de projets.
 
