@@ -47,8 +47,8 @@ J’aime concevoir des interfaces claires, développer des solutions utiles et a
 
 ### Aperçu GitHub
 
-[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=estebanrousseau&show_icons=true&locale=fr)](https://github.com/estebanrousseau)
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=estebanrousseau&layout=compact&locale=fr)](https://github.com/estebanrousseau)
+[![Statistiques GitHub](https://camo.githubusercontent.com/f2aacb33704e22ed79958c6a58df1d1f613174dc94770827c0ee30e40c43ee47/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6573746562616e726f7573736561752673686f775f69636f6e733d74727565266c6f63616c653d6672)](https://github.com/estebanrousseau)
+[![Langages les plus utilisés](https://camo.githubusercontent.com/745fe8c38c8fb38b10a48fde6416a66b6ffe2f12fdc7f396cf7dbb830909208b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6573746562616e726f757373656175266c61796f75743d636f6d70616374266c6f63616c653d6672)](https://github.com/estebanrousseau)
 
 [Voir le profil GitHub et l’activité récente](https://github.com/estebanrousseau)
 
