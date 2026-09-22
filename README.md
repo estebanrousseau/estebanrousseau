@@ -34,23 +34,23 @@ J’aime concevoir des interfaces claires, développer des solutions utiles et a
 
 ## Projets
 
-### Projets mis en avant
-- Portfolio personnel
-- Application web
-- API REST
-- Projets de développement frontend
-- Mini projets d’apprentissage
+### Pokédex Pokémon
+
+[Voir le projet sur GitHub](https://github.com/estebanrousseau/tp_note_js_bastian_esteban)
+
+Création d’un site web local utilisant des requêtes `fetch` vers une API pour récupérer les données et générer un Pokédex de Pokémon.
 
 ---
 
-## Statistiques
 
-### Aperçu GitHub
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=estebanrousseau&show_icons=true&locale=fr)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=estebanrousseau&layout=compact&locale=fr)
-
----
+<p align="center">
+    <a href="https://github.com/korasrar">
+        <img height="180" src="https://github-stats-extended.vercel.app/api?username=korasrar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ec4899&icon_color=f9a8d4&text_color=444444&bg_color=ffffff" alt="Statistiques GitHub de korasrar" />
+    </a>
+    <a href="https://github.com/korasrar">
+        <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=korasrar&layout=compact&langs_count=8&hide_border=true&title_color=f472b6&text_color=444444&bg_color=ffffff" alt="Langages les plus utilisés par korasrar" />
+    </a>
+</p>
 
 ## Merci de votre visite
 
