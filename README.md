@@ -1,13 +1,13 @@
 # Bonjour 👋
 
+> Étudiant en BUT 3 informatique, je conçois des applications web et logiciels utiles, j’explore chaque jour de nouvelles technologies.
+
 ## À propos de moi
 
-Je suis un étudiant en BUT 3 informatique et je travaille sur la création de projets concrets et l’apprentissage continu. 
-J’aime concevoir des interfaces claires, développer des solutions utiles et améliorer mes compétences au quotidien.
+> J’aime concevoir des interfaces claires, développer des solutions utiles et améliorer mes compétences au quotidien. 
+Je suis aussi céateur de contenu et fan de jeux vidéos
 
 ---
-
-## Expérience
 
 ### Parcours d’apprentissage
 - Développement web
