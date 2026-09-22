@@ -5,7 +5,7 @@
 ## À propos de moi
 
 > J’aime concevoir des interfaces claires, développer des solutions utiles et améliorer mes compétences au quotidien. 
-Je suis aussi céateur de contenu et fan de jeux vidéos
+Je suis aussi créateur de contenu et fan de jeux vidéos
 
 ---
 
