@@ -40,14 +40,23 @@ J’aime concevoir des interfaces claires, développer des solutions utiles et a
 
 Création d’un site web local utilisant des requêtes `fetch` vers une API pour récupérer les données et générer un Pokédex de Pokémon.
 
+
 <p align="center">
     <img src="img/page%20home%20pkm.png" alt="Page d'accueil du Pokédex Pokémon" width="45%">
     <img src="img/page%20stat.png" alt="Page des statistiques du Pokédex Pokémon" width="45%">
 </p>
 
+#### Technologies
+- HTML
+- CSS
+- JavaScript
+
+#### API utilisée
+- https://pokeapi.co/api/v2
+
 ---
 
-## Statistique
+## Statistique GitHub
 <p align="center">
     <a href="https://github.com/estebanrousseau">
         <img height="180" src="https://github-stats-extended.vercel.app/api?username=estebanrousseau&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0891b2&icon_color=67e8f9&text_color=444444&bg_color=ffffff" alt="Statistiques GitHub de estebanrousseau" />
