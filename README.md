@@ -42,13 +42,13 @@ Création d’un site web local utilisant des requêtes `fetch` vers une API pou
 
 ---
 
-
+## Statistique
 <p align="center">
-    <a href="https://github.com/korasrar">
-        <img height="180" src="https://github-stats-extended.vercel.app/api?username=korasrar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ec4899&icon_color=f9a8d4&text_color=444444&bg_color=ffffff" alt="Statistiques GitHub de korasrar" />
+    <a href="https://github.com/estebanrousseau">
+        <img height="180" src="https://github-stats-extended.vercel.app/api?username=estebanrousseau&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ec4899&icon_color=f9a8d4&text_color=444444&bg_color=ffffff" alt="Statistiques GitHub de estebanrousseau" />
     </a>
-    <a href="https://github.com/korasrar">
-        <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=korasrar&layout=compact&langs_count=8&hide_border=true&title_color=f472b6&text_color=444444&bg_color=ffffff" alt="Langages les plus utilisés par korasrar" />
+    <a href="https://github.com/estebanrousseau">
+        <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=estebanrousseau&layout=compact&langs_count=8&hide_border=true&title_color=f472b6&text_color=444444&bg_color=ffffff" alt="Langages les plus utilisés par estebanrousseau" />
     </a>
 </p>
 
