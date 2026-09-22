@@ -7,6 +7,18 @@ J’aime concevoir des interfaces claires, développer des solutions utiles et a
 
 ---
 
+## Expérience
+
+### Parcours d’apprentissage
+- Développement web
+- Programmation logicielle
+- Conception d’interfaces
+- Gestion de projets personnels
+- Apprentissage continu des nouvelles technologies
+
+
+---
+
 ## Technologies utilisées
 
 | Domaine | Outils |
@@ -31,25 +43,14 @@ J’aime concevoir des interfaces claires, développer des solutions utiles et a
 
 ---
 
-## Expérience
-
-### Parcours d’apprentissage
-- Développement web
-- Programmation logicielle
-- Conception d’interfaces
-- Gestion de projets personnels
-- Apprentissage continu des nouvelles technologies
-
-
----
-
 ## Statistiques
 
 ### Aperçu GitHub
-- Contributions récentes
-- Répertoires publics
-- Projets actifs
-- Progression technique
+
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=estebanrousseau&show_icons=true&locale=fr)](https://github.com/estebanrousseau)
+[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=estebanrousseau&layout=compact&locale=fr)](https://github.com/estebanrousseau)
+
+[Voir le profil GitHub et l’activité récente](https://github.com/estebanrousseau)
 
 ---
 
