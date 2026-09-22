@@ -40,6 +40,11 @@ J’aime concevoir des interfaces claires, développer des solutions utiles et a
 
 Création d’un site web local utilisant des requêtes `fetch` vers une API pour récupérer les données et générer un Pokédex de Pokémon.
 
+<p align="center">
+    <img src="img/page%20home%20pkm.png" alt="Page d'accueil du Pokédex Pokémon" width="45%">
+    <img src="img/page%20stat.png" alt="Page des statistiques du Pokédex Pokémon" width="45%">
+</p>
+
 ---
 
 ## Statistique
